@@ -1,0 +1,13 @@
+{
+  "name": "PruebaBecual",
+  "version": "0.0.1",
+  "description": "Solucion Reto 2 Becual",
+  "main": "code/challenge.js",
+  "scripts": {
+    "debug": "node debug code/challenge.js",
+    "start": "node code/challenge.js",
+    "test": "mocha test/challenge.test.js"
+  },
+  "author": "Ramon Caraballo",
+  "license": "ISC"
+}
